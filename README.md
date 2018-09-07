@@ -16,7 +16,7 @@ Repo  : https://github.com/erikfloresq/flutter_ios
 
 - **"Flutter desde una perspectiva Android" - Carlo Renzo Huamán**
 
-Slide : 
+Slide : https://docs.google.com/presentation/d/124-giS5u9rQl429PwCV54yu7rCwKmqmu-TGp_2xd0O8/edit#slide=id.p
 
 Repo  : https://github.com/Tohure/HelloWorldFlutter
 
