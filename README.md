@@ -34,11 +34,15 @@ https://www.meetup.com/Flutter-Peru/events/253881168/
 
 ## Grupo en Facebook 
 
-[Flutter Perú - Grupo](https://www.facebook.com/groups/flutterperu)
+[Flutter Perú - Facebook Group](https://www.facebook.com/groups/flutterperu)
 
-## Grupo en Twitter 
+## Facebook 
 
-[Flutter Perú - Grupo](https://twitter.com/FlutterPeru)
+[Flutter Perú - Facebook](https://www.facebook.com/FlutterPeru)
+
+## Twitter 
+
+[Flutter Perú - Twitter](https://twitter.com/FlutterPeru)
 
 ## Meetup 
 
