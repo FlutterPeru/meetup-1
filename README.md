@@ -10,9 +10,9 @@ Slides : https://speakerdeck.com/diegoveloper/introduccion-a-flutter
 
 - **"Flutter desde una perspectiva iOS" - Erik Flores**
 
-Slide : 
+Slide : https://speakerdeck.com/erikfloresq/flutter-para-ios-developers
 
-Repo  : 
+Repo  : https://github.com/erikfloresq/flutter_ios
 
 - **"Flutter desde una perspectiva Android" - Carlo Renzo Huamán**
 
